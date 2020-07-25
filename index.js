@@ -1,18 +1,3 @@
-// let UserOne = {
-//   name: 'Kishan',
-//   travel:'By-air',
-//   address: 'Tamil-nadu',
-//
-// // Arrow Function
-//
-//   login : () => {
-//     console.log('login Successful');
-//   }
-//
-//
-// }
-//
-// console.log(UserOne);
 // ------------------Very Easy--------------------
 
 // Ques1
